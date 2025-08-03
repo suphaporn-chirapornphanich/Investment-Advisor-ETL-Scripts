@@ -1,0 +1,12 @@
+{
+ "portfolio": {
+   "AAPL": 20,
+   "MSFT": 30,
+   "GOOGL": 25,
+   "TSLA": 25
+ },
+ "currency": "USD"
+}
+
+
+
